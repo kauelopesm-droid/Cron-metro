@@ -42,7 +42,7 @@ body {
 
 
 #display {
-    font-size: clamp(2rem, 10vw, 5rem);
+    font-size: 40px;
     font-family: monospace;
     font-weight: bold;
 
